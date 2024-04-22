@@ -4,6 +4,7 @@ on:
   push:
     branches: 
         - 'issue2' 
+        - 'main'
 
 jobs:
   build:
